@@ -1,0 +1,9 @@
+// =====================================================================
+//  S1mple (Саша) — офлайн голосовой помощник для Windows
+//  app.rc — ресурсы приложения: манифест (Common Controls v6), иконка.
+// =====================================================================
+#include "resource.h"
+
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "res\\app.manifest"
+
+IDI_MAIN ICON "res\\s1mple.ico"
