@@ -1,0 +1,6 @@
+<Solution Version="17">
+  <ConfigurationType>CPlusPlus</ConfigurationType>
+  <Projects>
+    <Project Path="S1mple.vcxproj" />
+  </Projects>
+</Solution>
