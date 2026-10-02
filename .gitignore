@@ -3,3 +3,25 @@ node_modules/
 dist/
 build/
 *.log
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.filters.bak
+[Dd]ebug/
+[Rr]elease/
+x64/
+obj/
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.iobj
+*.ipdb
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+*.exp
