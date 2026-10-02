@@ -10,6 +10,7 @@ build/
 *.user
 *.userosscache
 *.sln.docstates
+*.slnx.user
 *.vcxproj.filters.bak
 [Dd]ebug/
 [Rr]elease/
